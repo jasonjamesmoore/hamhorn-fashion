@@ -1,4 +1,4 @@
-import Directory from './components/directory-item/directory.component';
+import Directory from './components/directory/directory.component';
 
 
 const App = () => {  
